@@ -29,7 +29,7 @@ app.use(function (req, res, next) {
 app.get('/items', function (req, res) {
   // Add your code here
   res.json({
-    success: 'get call succeed BUILD BACKEND MOTHERFUCKER',
+    success: 'get call succeed BUILD BACKEND MOTHERFUCKER!',
     url: req.url,
   });
 });
