@@ -10,6 +10,14 @@
       "StackName": "amplify-amplifytest-dev-125357",
       "StackId": "arn:aws:cloudformation:eu-central-1:896013841048:stack/amplify-amplifytest-dev-125357/53981360-d411-11eb-88f3-0263c82a433a",
       "AmplifyAppId": "d1d783eucrfaou"
+    },
+    "categories": {
+      "function": {
+        "amplifytest04fcd0ba": {
+          "deploymentBucketName": "amplify-amplifytest-dev-125357-deployment",
+          "s3Key": "amplify-builds/amplifytest04fcd0ba-587947746f655a654a71-build.zip"
+        }
+      }
     }
   }
 }
