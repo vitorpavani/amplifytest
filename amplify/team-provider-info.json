@@ -15,7 +15,7 @@
       "function": {
         "amplifytest04fcd0ba": {
           "deploymentBucketName": "amplify-amplifytest-dev-125357-deployment",
-          "s3Key": "amplify-builds/amplifytest04fcd0ba-587947746f655a654a71-build.zip"
+          "s3Key": "amplify-builds/amplifytest04fcd0ba-54666d546277754a5365-build.zip"
         }
       }
     }
